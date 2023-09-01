@@ -10,4 +10,4 @@ Advantages :
 
 Tool(s) and Method :
 Microsoft Excel, Web Scraping, Python, MachineLearning (SVM), Voyant
-## UAS Metode Kecerdasan Buatan
+## UAS Artificial Intelligence Method
