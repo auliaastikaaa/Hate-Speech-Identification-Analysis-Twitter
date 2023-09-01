@@ -10,4 +10,5 @@ Advantages :
 
 Tool(s) and Method :
 Microsoft Excel, Web Scraping, Python, MachineLearning (SVM), Voyant
+
 ## UAS Artificial Intelligence Method
